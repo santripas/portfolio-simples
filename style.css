@@ -19,7 +19,7 @@
     width: 20%;
     height: 100%;
     position: fixed;
-    background-color: blueviolet;
+    background-color: darkred;
 
 }
 
@@ -34,7 +34,7 @@
 }
 .img-sidebar img {
     width: 80%;
-    border: 8px solid #9f51e6;
+    border: 8px solid rgba(255, 0, 0, 0.158);
     border-radius: 50%;
 
 }
@@ -79,7 +79,7 @@ section.descricao h2 {
 }
 
 section.descricao h2 > span, section.descricao h3 > span {
-    color: blueviolet;
+    color: rgb(226, 13, 13);
 }
 
 section.descricao h3 {
